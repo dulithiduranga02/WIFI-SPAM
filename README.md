@@ -30,9 +30,9 @@ Here you can donate if you liked my project and you want to support me:
 
 ## Dependencies
 
-MDK3 `sudo apt-get install mdk3`: https://github.com/wi-fi-analyzer/mdk3-master
+MDK3 `sudo apt-get install mdk3`: https://github.com/dulithiduranga02/WIFI-SPAM.git
 
-MACCHANGER `sudo apt-get install macchanger` https://github.com/alobbs/macchanger
+MACCHANGER `sudo apt-get install macchanger` https://github.com/dulithiduranga02/WIFI-SPAM.git
 
 PWGEN `sudo apt-get install pwgen`
 
@@ -40,7 +40,7 @@ PWGEN `sudo apt-get install pwgen`
 
 ## Instalation and usage
 
-  1. Download the files `git clone https://github.com/125K/WiFi-Spam.git`
+  1. Download the files `git clone https://github.com/dulithiduranga02/WIFI-SPAM.git
 
   2. Dependencie instalation
 
