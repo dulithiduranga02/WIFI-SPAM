@@ -50,12 +50,5 @@ PWGEN `sudo apt-get install pwgen`
 
   3. Run the script `sudo WiFiSpam.sh`
   
-Thanks to <a href="https://github.com/digmorepaka">@digmorepaka</a>.
 
-## Check out my other projects
 
-- **PwrDeauther**: :zap: Deauth a specific WiFi access point or an entire channel.
-  - https://github.com/125K/PwrDeauther
-
-- **ESP8266 WiFi Captive Portal**: :key: WiFi captive portal for ESP8266 for phishing WiFi passwords.
-  - https://github.com/125K/ESP8266_WiFi_Captive_Portal
